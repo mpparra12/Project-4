@@ -2,13 +2,13 @@
 
 # Contributors
 
-Md Yousuf Reja
-Thanh Le Dinh
-Maria Paula Parra
+* Md Yousuf Reja
+* Thanh Le Dinh
+* Maria Paula Parra
 
 # Presentation 
 
-[https://docs.google.com/presentation/d/1aNgL6QkUVa8yY8YfFyVCyWJ94hBoemy4amadEo1dFmI/edit?usp=sharing](doc: google slides)
+[https://docs.google.com/presentation/d/1aNgL6QkUVa8yY8YfFyVCyWJ94hBoemy4amadEo1dFmI/edit?usp=sharing](doc:google slides)
 
 
 # Context
