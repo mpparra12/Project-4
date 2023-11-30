@@ -8,7 +8,7 @@ Maria Paula Parra
 
 # Presentation 
 
-[Google slides} (doc: https://docs.google.com/presentation/d/1aNgL6QkUVa8yY8YfFyVCyWJ94hBoemy4amadEo1dFmI/edit?usp=sharing)
+[Google slides] (doc: https://docs.google.com/presentation/d/1aNgL6QkUVa8yY8YfFyVCyWJ94hBoemy4amadEo1dFmI/edit?usp=sharing)
 
 
 # Context
